@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sea Turtle Facts</string>
+    <string name="title">Sea Turtle Facts</string>
+    <string name="subtitle">Meet the Pawikan</string>
+    <string name="turtle_desc">A green sea turtle swimming</string>
+    <string name="btn_view">Learn More</string>
+    <string name="detail_title">Sea Turtles</string>
+    <string name="habitat_label">Habitat</string>
+    <string name="habitat">• Live in warm oceans and seas\n• Feed near coral reefs and seagrass beds\n• Females return to sandy beaches to lay their eggs</string>
+    <string name="threats_label">Threats</string>
+    <string name="threats">1. Plastic bags that look like jellyfish.\n2. Fishing nets that trap them.\n3. Bright lights on nesting beaches.\n4. Hunting and egg collecting.</string>
+</resources>
